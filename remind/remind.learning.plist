@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>remind_learning</string>
+    <key>ProgramArguments</key>
+    <array>
+        <string>/Users/lanting/Conda/bin/python3</string>
+        <string>remind_learning.py</string>
+    </array>
+    <key>WorkingDirectory</key>
+    <string>/Users/lanting/Program_finished</string>
+    <key>StartInterval</key>
+    <integer>30</integer>
+</dict>
+</plist>
+
