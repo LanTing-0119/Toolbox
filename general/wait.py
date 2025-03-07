@@ -30,6 +30,6 @@ def sleep(sleeptime):
         # time.sleep(5)
 
 
-sleep(10000)
+sleep(1000000)
 
 print('hello')

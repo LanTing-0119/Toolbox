@@ -1,4 +1,4 @@
-input_file_path = 'mp4_2_mp3.py'
+input_file_path = '../file/filter_file/filter_with_srt.py'
 output_file_path = input_file_path.split('.')[0]+'1.'+input_file_path.split('.')[1]
 with open(input_file_path, 'r') as input_file:
     content = input_file.read()
